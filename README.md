@@ -36,6 +36,7 @@ Hi there, I'm **Jeremias Cortes**, a **Analyst Programmer student** 🚀 from Ar
 
 <br>
 </br>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
