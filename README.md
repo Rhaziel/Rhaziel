@@ -25,8 +25,6 @@ Hi there, I'm **Jeremias Cortes**, a **Analyst Programmer student** 🚀 from Ar
 <br>
 </br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/CNhA74HXGqFOg/giphy.gif" />
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently on a project with React;
@@ -35,6 +33,8 @@ Hi there, I'm **Jeremias Cortes**, a **Analyst Programmer student** 🚀 from Ar
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via jerec_11@yahoo.com.ar to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1GbrpFweQkTOeDX4qzU18g3ql6m8c42r6/view?usp=sharing) to get more info.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/CNhA74HXGqFOg/giphy.gif" />
 
 <br>
 </br>
