@@ -26,14 +26,12 @@ Hi there, I'm **Jeremias Cortes**, a **Analyst Programmer student** 🚀 from Ar
 </br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/CNhA74HXGqFOg/giphy.gif" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=rhaziel&&show_icons=true&title_color=cb0c59&icon_color=00b8ff&text_color=bd00ff&bg_color=000000">
-
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning React Native;
 - 📫 Please email via jerec_11@yahoo.com.ar to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1GbrpFweQkTOeDX4qzU18g3ql6m8c42r6/view?usp=sharing) to get more info.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhaziel&&show_icons=true&title_color=cb0c59&icon_color=00b8ff&text_color=bd00ff&bg_color=000000">
 
 ⭐️ From [Jere](https://github.com/Rhaziel)
