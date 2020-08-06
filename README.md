@@ -14,7 +14,9 @@
 <a href="https://gitlab.com/Rhaziel">
   <img align="left" alt="Mehdi's GitLab" width="22px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/gitlab_icon_132352.png" />
 </a>
-<br/>
+
+<br>
+</br>
 
 Hi there, I'm **Jeremias Cortes**, a **Analyst Programmer student** 🚀 from Argentina, currently, I'm a collaborating on a project with 🙍🏽‍ [@LujanRojas](https://github.com/DraCaster). This project is part of an extension project of my [Computer Science Faculty](https://www.info.unlp.edu.ar). 
 
