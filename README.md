@@ -20,7 +20,7 @@
 <br>
 </br>
 
-Hi there, I'm **Jeremias Cortes**, a **Analyst Programmer student** 🚀 from Argentina, currently, I'm a collaborating on a project with 🙍🏽‍ [@LujanRojas](https://github.com/DraCaster). This project is part of an extension project of my Computer Science Faculty. 
+Hi there, I'm **Jeremias Cortes**, a **Analyst Programmer student** 🚀 from Argentina, currently, I'm a collaborating on a project with 🙍🏽‍ [@LujanRojas](https://github.com/DraCaster). This project is part of an extension project of my [Computer Science Faculty](https://www.info.unlp.edu.ar). 
 
 <br>
 </br>
