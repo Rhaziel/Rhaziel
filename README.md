@@ -29,7 +29,7 @@ Hi there, I'm **Jeremias Cortes**, a **Analyst Programmer student** 🚀 from Ar
 - 💼 I’m pursuing a Undergraduate degree in Analyst Programmer;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via jerec_11@yahoo.com.ar to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1GbrpFweQkTOeDX4qzU18g3ql6m8c42r6/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1R1WyO-M75U8vb8ZRUiDqjHbzdgJ6gEug/view?usp=sharing) to get more info.
 
 <br/>
 
