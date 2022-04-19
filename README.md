@@ -44,6 +44,8 @@ Hi there, I'm **Jeremias Cortes**, a **Analyst Programmer student** 🚀 from Ar
 <code><img height="20" src="https://teorema-rd.com/wp-content/uploads/2020/05/microsoft-SQL-server-logo.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/480/mongodb.png"></code>
+<code><img height="20" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.png"></code>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhaziel&&show_icons=true&title_color=cb0c59&icon_color=00b8ff&text_color=bd00ff&bg_color=000000">
 
